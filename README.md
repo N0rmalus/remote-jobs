@@ -842,4 +842,5 @@ Name | Website | Region
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
 
+## Scroll to the top
 [^](#remote-friendly-companies)
